@@ -1,0 +1,13 @@
+.DS_Store
+build/
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+
+# Archivos de configuración sensible
+GoogleService-Info.plist
+Info.plist
+*.keys
+*.secrets
+*.env
